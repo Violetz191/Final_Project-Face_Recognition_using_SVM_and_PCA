@@ -1,13 +1,5 @@
 # Face Recognition (SVM , GridSearchCV, PCA, ML-Pipeline)
-<!-- ![image](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/a4673a89-67d5-40c8-b9b5-daf60e18293e) -->
 
-![image](https://github.com/Kmohamedalie/Face-Recognition-PCA-SVM/assets/63104472/ea4a25c8-adb4-4d50-8a36-4fa317585cd7)
-
-**image source:**  [UMASS](http://vis-www.cs.umass.edu/lfw/) 
-
-
- 
- 
 
 
 
